@@ -1,22 +1,5 @@
 title: "Hajar EL BERRAH"
-description: "Data Scientist spécialisée en modélisation statistique, Machine Learning et R Shiny."
-author: "Hajar EL BERRAH"
-
-theme: minima
-
+description: "Data Scientist | Data Analyst – Statistiques, Data Visualisation, Machine Learning & IA "
+show_downloads: true
+theme: jekyll-theme-minimal
 lang: fr
-timezone: Europe/Paris
-
-email: hajarelberrah0@gmail.com
-github_username: ton-username
-linkedin_username: ton-linkedin
-
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-minima:
-  skin: classic
-  social_links:
-    - { platform: github,  user_url: "https://github.com/ton-username" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/ton-linkedin/" }
