@@ -3,7 +3,7 @@
 
 🎓 Diplômée d’un Master en Mathématiques Appliquées – Statistique & Data Science  
 📍 Basée en France | Mobile  
-📊 Spécialisée en modélisation statistique, Machine Learning et Data Visualisation  
+📊 Spécialisée en modélisation statistique, Machine Learning, IA et Data Visualisation  
 
 ---
 
@@ -13,16 +13,14 @@ Data Scientist rigoureuse et orientée impact, je conçois des solutions analyti
 
 Mon expertise couvre :
 - Modélisation statistique avancée
-- Machine Learning
+- Machine Learning & IA
 - Analyse exploratoire & Data Mining
 - Séries temporelles & prévision
 - Développement de dashboards interactifs
 
 ---
 
-## 🛠 Stack Technique
-
-### Langages
+## 🛠 Langages
 - R
 - Python
 - SQL
@@ -30,16 +28,9 @@ Mon expertise couvre :
 - C / C++
 - MATLAB
 
-### Statistiques & Data Science  
-- Mathématiques appliquées et statistiques avancées 
-- Modélisation statistique
-- Machine Learning & Intelligence Artificielle
-- Data Mining & Big Data
-- Séries temporelles & prévision
-
 ---
 
-## 📂 Projets Sélectionnés
+## 📂 Projets 
 
 ### 🏥 Optimisation et Prévision des Consommations Hospitalières  
 **Stage Data Analyst**
@@ -49,7 +40,7 @@ Développement d’outils analytiques pour améliorer la gestion des équipement
 - Cartographie et hiérarchisation des équipements
 - Modélisation prédictive des consommations
 - Analyse statistique des tendances
-- Développement d’un dashboard interactif sous **R Shiny**
+- Développement d’un dashboard interactif sous R Shiny
 - Recommandations stratégiques pour l’optimisation des stocks
 
 🛠 Stack : R | R Shiny | Analyse statistique | Data Visualisation  
@@ -106,7 +97,7 @@ Avec une ambition claire : développer des solutions analytiques robustes, inter
 ## 📫 Contact
 
 📧 hajarelberrah0@gmail.com  
-💼 LinkedIn : [Ajouter ton lien]  
+💼 LinkedIn : [www.linkedin.com/in/hajar-e-b68869345]  
 
 ---
 
