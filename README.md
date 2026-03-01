@@ -3,7 +3,7 @@
 
 🎓 Diplômée d’un Master en Mathématiques Appliquées – Statistique & Data Science  
 📍 Basée en France | Mobile  
-📊 Spécialisée en modélisation statistique, Machine Learning, IA et Data Visualisation  
+📊 Spécialisée en modélisation statistique, Machine Learning et Data Visualisation  
 
 ---
 
@@ -97,7 +97,7 @@ Avec une ambition claire : développer des solutions analytiques robustes, inter
 ## 📫 Contact
 
 📧 hajarelberrah0@gmail.com  
-💼 LinkedIn : [www.linkedin.com/in/hajar-e-b68869345]  
+💼 LinkedIn : [Mon profil](https://www.linkedin.com/in/hajar-e-b68869345)
 
 ---
 
