@@ -1,5 +1,31 @@
 title: "Hajar EL BERRAH"
-description: "Data Scientist | Data Analyst – Statistiques, Data Visualisation, Machine Learning & IA "
-show_downloads: true
-theme: jekyll-theme-minimal
+description: "Data Scientist | Data Analyst spécialisée en modélisation statistique, Machine Learning et Data Visualisation."
+author: "Hajar EL BERRAH"
+
+# Thème GitHub Pages
+theme: minima
+
+# Langue & fuseau horaire
 lang: fr
+timezone: Europe/Paris
+
+# Informations personnelles
+email: hajarelberrah0@gmail.com
+github_username: Hajardlaw
+linkedin_username: hajar-e-b68869345
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Paramètres du thème Minima
+minima:
+  skin: classic
+  social_links:
+    - { platform: github,  user_url: "https://github.com/Hajardlaw" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/hajar-e-b68869345" }
+
+# Options diverses
+show_excerpts: false
+google_analytics: # Ajouter ton ID si besoin
