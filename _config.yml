@@ -1,5 +1,5 @@
 title: "Hajar EL BERRAH"
 description: "Data Scientist | Data Analyst – Statistiques, Data Visualisation, Machine Learning & IA "
-show_downloads: false
-theme: jekyll-theme-minimal
+show_downloads: true
+theme: minima
 lang: fr
