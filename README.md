@@ -141,8 +141,8 @@ Avec une ambition claire : développer des solutions analytiques robustes, inter
 
 ## Contact
 
-📧 hajarelberrah0@gmail.com  
-💼 LinkedIn : [Mon profil](https://www.linkedin.com/in/hajar-e-b68869345)
+hajarelberrah0@gmail.com  
+LinkedIn : [Mon profil](https://www.linkedin.com/in/hajar-e-b68869345)
 
 ---
 
