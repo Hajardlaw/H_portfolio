@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Profil
+## Profil
 
 Data Scientist rigoureuse et orientée impact, je conçois des solutions analytiques pour transformer la donnée en levier stratégique.
 
@@ -16,74 +16,109 @@ Mon expertise couvre :
 - Machine Learning & IA
 - Analyse exploratoire & Data Mining
 - Séries temporelles & prévision
-- Développement de dashboards interactifs
 
 ---
 
-## 🛠 Langages
+## Langages
 - R
 - Python
 - SQL
 - SAS
 - C / C++
 - MATLAB
+- Excel
+- Power BI
 
 ---
 
-## 📂 Projets 
+## Expérience 
 
-### 🏥 Optimisation et Prévision des Consommations Hospitalières  
-**Stage Data Analyst**
+### Stage : Optimisation et Prévision des Consommations Hospitalières  
+** Mai 2025 – Septembre 2025 **
 
-Développement d’outils analytiques pour améliorer la gestion des équipements et consommables médicaux.
-
+Principales missions :
 - Cartographie et hiérarchisation des équipements
 - Modélisation prédictive des consommations
 - Analyse statistique des tendances
 - Développement d’un dashboard interactif sous R Shiny
 - Recommandations stratégiques pour l’optimisation des stocks
 
-🛠 Stack : R | R Shiny | Analyse statistique | Data Visualisation  
-🔗 Repo : [Lien vers le projet](#)
+🛠 R | R Shiny 
 
 ---
 
-### 🖼 Classification d’Images – Machine Learning
+### Projet : Classification d’Images – Machine Learning
+** Université d’Orléans | 2025 **
 
-- Prétraitement et feature engineering
-- Entraînement et comparaison de modèles
-- Évaluation des performances
-- Analyse critique des résultats
+- Prédiction à l’aide de modèles de Machine Learning  
+- Évaluation des performances des modèles  
+- Analyse des limites et axes d’amélioration 
 
-🛠 Stack : Python | scikit-learn  
-🔗 Repo : [Lien vers le projet](#)
+🛠 Python 
 
 ---
 
-### 🎨 Quantification d’Images – Clustering K-Means
+### Projet : Quantification d’Images 
+** Université d’Orléans | 2024 **
 
-- Application du clustering à la compression d’images
-- Réduction dimensionnelle
+- Utilisation des techniques de traitement d’images  
+- Clustering et segmentation  
 - Analyse de performance
 
-🛠 Stack : Python  
-🔗 Repo : [Lien vers le projet](#)
+🛠 Python  
 
 ---
 
-### 🚗 Analyse Statistique de Données Automobiles
+### Projet : Analyse Statistique de Données Automobiles
 
 - Statistiques descriptives
 - Gestion des valeurs manquantes
+- Étude des corrélations entre variables 
 - ACP
 - Clustering hiérarchique
 
 🛠 Stack : R | SAS  
-🔗 Repo : [Lien vers le projet](#)
 
 ---
 
-## 🎯 Objectif Professionnel
+## Formation
+
+### Master Mathématiques Appliquées – Statistique & Data Science  
+Université d’Orléans  
+2023 – 2025  
+
+### BUT Science des Données  
+IUT d’Avignon  
+2022 – 2023
+
+### Licence Mathématiques - parcours Informatique
+Université d’Avignon  
+2019 – 2022  
+
+## Formation complémentaire
+
+### DU Graduate School Orléans Numérique  
+Université d’Orléans – 2024
+- RMarkdown  
+- R Shiny
+
+## Langues
+
+- Français : Bilingue  
+- Anglais : Intermédiaire  
+- Arabe : Bilingue
+
+## Soft Skills
+
+- Rigueur scientifique  
+- Capacité d’analyse  
+- Esprit critique  
+- Autonomie  
+- Travail en équipe
+  
+---
+
+## Objectif Professionnel
 
 Intégrer une équipe Data en tant que :
 
@@ -94,7 +129,7 @@ Avec une ambition claire : développer des solutions analytiques robustes, inter
 
 ---
 
-## 📫 Contact
+## Contact
 
 📧 hajarelberrah0@gmail.com  
 💼 LinkedIn : [Mon profil](https://www.linkedin.com/in/hajar-e-b68869345)
