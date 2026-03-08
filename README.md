@@ -37,17 +37,17 @@ Mon expertise couvre :
 **Mai 2025 – Septembre 2025**
 
 Principales missions :
-- Cartographie et hiérarchisation des équipements
+- Cartographie et hiérarchisation des équipements et consommables médicaux
 - Modélisation prédictive des consommations
 - Analyse statistique des tendances
-- Développement d’un dashboard interactif sous R Shiny
-- Recommandations stratégiques pour l’optimisation des stocks
+- Développement de tableaux de bord interactifs pour le suivi des équipements et des consommations en consommables
+- Production de rapport d’analyse et recommandations pour améliorer la gestion hospitalière
 
 🛠 R | 🛠 R Shiny 
 
 ---
 
-### Projet : Classification d’Images – Machine Learning
+### Projet : Classification d’Images 
 **Université d’Orléans | 2024**
 
 - Prédiction à l’aide de modèles de Machine Learning  
@@ -73,10 +73,9 @@ Principales missions :
 **IUT d'Avignon | 2023**
 
 - Statistiques descriptives
-- Gestion des valeurs manquantes
+- Gestion des valeurs manquantes et aberrantes
 - Étude des corrélations entre variables 
-- ACP
-- Clustering hiérarchique
+- ACP et Clustering hiérarchique
 
 🛠 R | 🛠 SAS  
 
@@ -90,7 +89,7 @@ Principales missions :
 
 ---
 
-### BUT Science des Données  
+### BUT Statistique et Informatique décisionnelle 
 **IUT d’Avignon**  
 2022 – 2023
 
