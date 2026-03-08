@@ -1,5 +1,22 @@
 title: "Hajar EL BERRAH"
-description: "Data Scientist | Data Analyst – Statistiques, Data Visualisation, Machine Learning & IA "
-show_downloads: false
+description: "Data Scientist | Data Analyst – Modélisation statistique, Machine Learning, Data Visualisation"
+
 theme: jekyll-theme-cayman
 lang: fr
+
+show_downloads: false
+google_analytics: 
+
+github:
+  is_project_page: false
+
+author:
+  name: Hajar EL BERRAH
+  email: hajarelberrah0@gmail.com
+  linkedin: https://www.linkedin.com/in/hajar-e-b68869345
+
+social_links:
+  linkedin: https://www.linkedin.com/in/hajar-e-b68869345
+
+plugins:
+  - jekyll-seo-tag
