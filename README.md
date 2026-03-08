@@ -34,7 +34,7 @@ Mon expertise couvre :
 ## Expérience 
 
 ### Stage : Optimisation et Prévision des Consommations Hospitalières  
-** Mai 2025 – Septembre 2025 **
+**Mai 2025 – Septembre 2025**
 
 Principales missions :
 - Cartographie et hiérarchisation des équipements
@@ -43,12 +43,12 @@ Principales missions :
 - Développement d’un dashboard interactif sous R Shiny
 - Recommandations stratégiques pour l’optimisation des stocks
 
-🛠 R | R Shiny 
+🛠 R | 🛠 R Shiny 
 
 ---
 
 ### Projet : Classification d’Images – Machine Learning
-** Université d’Orléans | 2025 **
+**Université d’Orléans | 2024**
 
 - Prédiction à l’aide de modèles de Machine Learning  
 - Évaluation des performances des modèles  
@@ -59,7 +59,7 @@ Principales missions :
 ---
 
 ### Projet : Quantification d’Images 
-** Université d’Orléans | 2024 **
+**Université d’Orléans | 2024**
 
 - Utilisation des techniques de traitement d’images  
 - Clustering et segmentation  
@@ -70,6 +70,7 @@ Principales missions :
 ---
 
 ### Projet : Analyse Statistique de Données Automobiles
+**IUT d'Avignon | 2023**
 
 - Statistiques descriptives
 - Gestion des valeurs manquantes
@@ -77,36 +78,46 @@ Principales missions :
 - ACP
 - Clustering hiérarchique
 
-🛠 Stack : R | SAS  
+🛠 R | 🛠 SAS  
 
 ---
 
 ## Formation
 
 ### Master Mathématiques Appliquées – Statistique & Data Science  
-Université d’Orléans  
+**Université d’Orléans**
 2023 – 2025  
 
+---
+
 ### BUT Science des Données  
-IUT d’Avignon  
+**IUT d’Avignon**  
 2022 – 2023
 
+---
+
 ### Licence Mathématiques - parcours Informatique
-Université d’Avignon  
+**Université d’Avignon** 
 2019 – 2022  
+
+---
 
 ## Formation complémentaire
 
 ### DU Graduate School Orléans Numérique  
-Université d’Orléans – 2024
+**Université d’Orléans – 2024**
 - RMarkdown  
 - R Shiny
+
+---
 
 ## Langues
 
 - Français : Bilingue  
 - Anglais : Intermédiaire  
 - Arabe : Bilingue
+
+---
 
 ## Soft Skills
 
@@ -115,7 +126,7 @@ Université d’Orléans – 2024
 - Esprit critique  
 - Autonomie  
 - Travail en équipe
-  
+
 ---
 
 ## Objectif Professionnel
