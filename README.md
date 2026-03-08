@@ -54,7 +54,7 @@ Principales missions :
 - Évaluation des performances des modèles  
 - Analyse des limites et axes d’amélioration 
 
-🛠 Python 
+🛠 Python | 
 
 ---
 
@@ -65,7 +65,7 @@ Principales missions :
 - Clustering et segmentation  
 - Analyse de performance
 
-🛠 Python  
+🛠 Python |   
 
 ---
 
@@ -85,7 +85,7 @@ Principales missions :
 ## Formation
 
 ### Master Mathématiques Appliquées – Statistique & Data Science  
-**Université d’Orléans**
+**Université d’Orléans**  
 2023 – 2025  
 
 ---
@@ -97,7 +97,7 @@ Principales missions :
 ---
 
 ### Licence Mathématiques - parcours Informatique
-**Université d’Avignon** 
+**Université d’Avignon**  
 2019 – 2022  
 
 ---
@@ -111,14 +111,6 @@ Principales missions :
 
 ---
 
-## Langues
-
-- Français : Bilingue  
-- Anglais : Intermédiaire  
-- Arabe : Bilingue
-
----
-
 ## Soft Skills
 
 - Rigueur scientifique  
@@ -126,6 +118,14 @@ Principales missions :
 - Esprit critique  
 - Autonomie  
 - Travail en équipe
+
+---
+
+## Langues
+
+- Français : Bilingue  
+- Anglais : Intermédiaire  
+- Arabe : Bilingue
 
 ---
 
